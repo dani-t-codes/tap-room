@@ -6,7 +6,7 @@
 
 ### By Danielle Thompson
 
-### Project began 2.12.21
+### Project began 2.12.21. Last updated 2.14.21.
 
 </div>
 
