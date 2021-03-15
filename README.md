@@ -110,7 +110,7 @@ onclick to delete a keg (inventory) {stretch} {_done_}
 ## Stretch Goals
 
 - Implement more CSS/CSS objects
-- Allow for price and alcoholContent numbers formatting to be decimals to two and one positions, respectively. See[this resource](https://www.varvet.com/blog/format-numbers-in-input-fields-using-react/).
+- Allow for price and alcoholContent numbers formatting to be decimals to two and one positions, respectively. See [this resource](https://www.varvet.com/blog/format-numbers-in-input-fields-using-react/).
 
 ## Technologies Used
 
