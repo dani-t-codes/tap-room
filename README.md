@@ -156,7 +156,7 @@ ___
 
 ###### For Both Mac & Windows systems
 
-* Once you have Git installed on your computer, go to this [GitHub repository](https://github.com/dani-t-codes/tap-room), click the "Fork" button in the upper right hand corner of the page, and clone this application with the following command:`git clone https://github.com/dani-t-codes/tap-room.git`.
+* Once you have Git installed on your computer, go to this [GitHub repository](https://github.com/danitcodes/tap-room), click the "Fork" button in the upper right hand corner of the page, and clone this application with the following command:`git clone https://github.com/danitcodes/tap-room.git`.
 * Go to the [Node.js website](https://nodejs.org/en/download/) and download the appropriate source code for your Windows operating system.
 * Once the project has been cloned to your computer and you have all the necessary items on your local computer, open the project in the application of your choice.
 
